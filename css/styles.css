@@ -1071,10 +1071,12 @@ body {
     text-align: center !important;
   }
   h2 {
+    font-size: 36px;
     color: #FAD4B1;
   }
   
   p {
+    font-size: 18px;
       color: #e5e7eb;
   }
 ul {
